@@ -1,0 +1,39 @@
+.Banner{
+    top: 0px;
+    justify-content: center;
+    position: absolute;
+    /* right: 10px; */
+    left: 10px;
+    padding: 30px;
+}
+.banner-photo{
+    min-width: 100%;
+    height: auto;
+    position: relative;
+}
+.banner-photo{
+    margin: 50px 140px;
+
+}
+#h3-title{
+    color: #62c506;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+
+}
+#h1-title{
+    color: #28f504;
+text-align: center;
+font-family: Merriweather;
+font-size: 75px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; 
+width: 632px; ;
+
+}
