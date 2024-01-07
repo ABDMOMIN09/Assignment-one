@@ -12,7 +12,7 @@
     position: relative;
 }
 .banner-photo{
-    margin: 50px 140px;
+    margin: 50px 250px 180px;
 
 }
 #h3-title{
@@ -37,3 +37,42 @@ line-height: 95px;
 width: 632px; ;
 
 }
+/* banner realated */
+.happy{ 
+    text-align: center;
+    margin-left:  400px;
+    margin-right: 400px;
+}
+.off{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.offer-cata{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.all-cata{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+
+}
+
+
+
+
