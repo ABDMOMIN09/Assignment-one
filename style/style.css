@@ -10,6 +10,7 @@
     min-width: 100%;
     height: auto;
     position: relative;
+    
 }
 .banner-photo{
     margin: 50px 250px 180px;
@@ -161,7 +162,49 @@ font-size:xx-large;
 }
 .ddd{
     color: #F00;
+    /* <!-- comming soon realated */
 
+}
+#comeh4{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+#comeh2{
+    color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+/* margin-top: 100px; */
+}
+#p1{
+    color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 1000;
+line-height: 32px; 
+/* margin-top: 100px; */
+}
+
+.come{
+    width: 1320px;
+    height: 600px;
+    margin-left: 180px;
+    margin-right: 250px;
+    display: flex;
+    padding-top: 10px;
+    background-color: rgba(255, 255, 255, 0.543);
+    justify-content: center;
+    margin-top: 150px;
 }
 
 
