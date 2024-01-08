@@ -1,3 +1,6 @@
+html,body{
+    overflow-x: hidden;
+}
 .Banner{
     top: 0px;
     justify-content: center;
@@ -74,7 +77,7 @@ line-height: normal;
 
 }
 /* welcome section */
-section{
+.section{
     background-image: url('../image/Vectorrr.png');
     width: 1320px;
 height: 600px;
@@ -194,7 +197,12 @@ font-weight: 1000;
 line-height: 32px; 
 /* margin-top: 100px; */
 }
+.Ellipse img{
+    border: 9px solid red;
+    border-radius: 50%;
+    padding: 10px;
 
+}
 .come{
     width: 1320px;
     height: 600px;
@@ -206,11 +214,97 @@ line-height: 32px;
     justify-content: center;
     margin-top: 150px;
 }
+.come2{
+    width: 1320px;
+    /* height: 600px; */
+    margin-left: 180px;
+    margin-right: 250px;
+
+}
+.best{
+    color: #F00;
+}
 
 
+.our{
+    color: #070211;
+    font-weight: 900;
+line-height: normal;
+}
 
+.lim{color: rgba(7, 2, 17, 0.60);
 
+    /* font-family: Inter; */
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
 
+}
+
+.por-img img{
+    transition: 400ms;
+    cursor: pointer;
+    border-radius: 16px;
+
+}
+
+.por-img img:hover{
+    transform: scale(1.1);
+}
+.input-sec{
+    display: flex;
+    align-items: center;
+}
+.input-sec input{
+     width: 648px;
+    padding: 4px 40px;
+    border: 1px solid gray;
+    height: 72px;
+    border-right: none;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+
+}
+.input-sec button{
+    /* width: 150px; */
+    padding: 4px 30px;
+    border: 1px solid red;
+    background-color: #F00;
+    font-size: 25px;
+    color: #FFF;
+    height: 83px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+
+}
+.Newsletter{
+    text-align: center;
+    border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+padding: 100px 0px;
+/* margin: 100px 0px; */
+margin-top: 100px;
+}
+.input-area{
+    /* width: ; */
+    display: flex;
+    justify-content: center;
+}
+footer{
+    background: #070211;
+    color: #FFF;
+}
+.Contact{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0px;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+
+}
 
 
 
