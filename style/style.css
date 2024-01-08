@@ -74,7 +74,7 @@ line-height: normal;
 }
 /* welcome section */
 section{
-    /* background-image: url('/image/Vectorrr.png'); */
+    background-image: url('../image/Vectorrr.png');
     width: 1320px;
 height: 600px;
 margin-left: 180px;
